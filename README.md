@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rene</h1>
-<h3 align="center">Full stack developer & CTO</h3>
+<h1>Hi 👋, I'm Rene</h1>
+<h3>Full stack developer & CTO</h3>
 <p align="left">
 I love working with different technologies. Specially with PHP, Javascript, Linux, AWS, Laravel, React Native. Like to learn new things regularly.
 </p>
