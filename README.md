@@ -1,14 +1,13 @@
 <h1>Hi 👋, I'm Rene</h1>
 <h3>Full stack developer & CTO</h3>
 <p align="left">
-I love working with different technologies. Specially with PHP, Javascript, Linux, AWS, Laravel, React Native. Like to learn new things regularly.
+I love working with different technologies. Specially with PHP, Javascript, Linux, AWS, Laravel, Flutter Like to learn new things regularly.
 </p>
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/renekorss" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="renekorss" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/renekorss" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="renekorss" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/1960712" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1960712" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucgmnkujtkorm0ik2waue5oa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucgmnkujtkorm0ik2waue5oa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
