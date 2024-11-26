@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Rene</h1>
 <h3>Full stack developer & CTO</h3>
 <p align="left">
-I love working with different technologies. Specially with PHP, Javascript, Linux, AWS, Laravel, Flutter Like to learn new things regularly.
+I love working with different technologies. Specially with PHP, Javascript, Linux, AWS, Laravel, Flutter. Like to learn new things regularly.
 </p>
 <p align="left">
 <h3 align="left">Connect with me:</h3>
